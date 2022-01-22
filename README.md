@@ -5,5 +5,3 @@
 
 <img src="https://github.com/abenkoula71/Flutter-app-eat/blob/main/Screenshot_1642676073.png" width="300" /> 
 <hr>
-
-
